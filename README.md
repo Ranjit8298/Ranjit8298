@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ranjit8298
+- 👋 Hi, I’m Ranjit Kumar. I am a B.Tech student.
 - 👀 I’m interested in Machine Learning.
 
 
