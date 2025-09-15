@@ -1,14 +1,9 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=180&section=header&text=Hi%20👋,%20I'm%20Ranjit%20Kumar&fontSize=40&fontAlignY=35&animation=twinkling" />
-</p>
+# 👋 Hi, I'm Ranjit Kumar
 
-<!-- Social Links -->
-<p align="center">
-  <a href="mailto:ranjitkumarbgs61@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ranjit-kumar-99141317b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Ranjit8298"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+📍 Dehradun, Uttarakhand, India  
+📱 +91 9110951615  
+✉️ [ranjitkumarbgs61@gmail.com](mailto:ranjitkumarbgs61@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/ranjit-kumar-99141317b) | [GitHub](https://github.com/Ranjit8298)
 
 ---
 
@@ -88,9 +83,3 @@ Customer Service Management System where customers can raise requests and track 
 ## 🎓 Education
 **B.Tech (CSE)** — Shivalik College of Engineering, Uttarakhand Technical University  
 *2018 – 2022*
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=footer"/>
-</p>
