@@ -73,8 +73,6 @@ A B2B grocery app enabling retailers and businesses to purchase groceries in bul
 ### 🏥 Sygnal *(Jan 2024 – Aug 2024)*
 Healthcare coordination platform built to meet NDIS and Aged Care standards for managing clients, care plans, and staff.  
 **Tech:** Flutter, Bloc, Firebase, One Signal, Google Maps, Third-party libraries  
-**🌐 Live Links:**  
-[Play Store](#) | [App Store](#) | [Web](#)
 
 ---
 
