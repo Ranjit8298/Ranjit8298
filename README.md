@@ -3,7 +3,7 @@
 📍 Dehradun, Uttarakhand, India  
 📱 +91 9110951615  
 ✉️ [ranjitkumarbgs61@gmail.com](mailto:ranjitkumarbgs61@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/ranjit-kumar-99141317b) | [GitHub](https://github.com/Ranjit8298)
+🔗 [LinkedIn](https://www.linkedin.com/in/ranjit-kumar-99141317b) 
 
 ---
 
