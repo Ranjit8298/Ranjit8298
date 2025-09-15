@@ -91,16 +91,6 @@ Customer Service Management System where customers can raise requests and track 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ranjit8298&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ranjit8298&theme=tokyonight" alt="GitHub streak" />
-</p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=footer"/>
 </p>
