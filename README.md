@@ -65,18 +65,24 @@ I love crafting **clean, scalable, and user-friendly** mobile solutions with a f
 ### 🛒 Nutmeg Buyer *(Sept 2024 – Present)*
 A B2B grocery app enabling retailers and businesses to purchase groceries in bulk directly from suppliers.  
 **Tech:** Flutter, Bloc, Firebase, One Signal, Third-party libraries  
+**🌐 Live Links:**  
+[Play Store](#) | [App Store](#) | [Web](#)
 
 ---
 
 ### 🏥 Sygnal *(Jan 2024 – Aug 2024)*
 Healthcare coordination platform built to meet NDIS and Aged Care standards for managing clients, care plans, and staff.  
 **Tech:** Flutter, Bloc, Firebase, One Signal, Google Maps, Third-party libraries  
+**🌐 Live Links:**  
+[Play Store](#) | [App Store](#) | [Web](#)
 
 ---
 
 ### 🛠 Fuji CSMS *(May 2022 – Oct 2022)*
 Customer Service Management System where customers can raise requests and track resolutions from engineers.  
 **Tech:** React Native, React Redux, Firebase, TypeScript, React Navigation, React Hooks  
+**🌐 Live Links:**  
+[Play Store](#) | [App Store](#) | [Web](#)
 
 ---
 
