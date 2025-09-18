@@ -54,7 +54,6 @@ I love crafting **clean, scalable, and user-friendly** mobile solutions with a f
 **React Native Developer** — CFCS Cloud Solutions  
 *Feb 2022 – Oct 2022 | Noida, India*  
 - Implemented Redux Toolkit & Firebase Push Notifications  
-- Collaborated with UI/UX teams for responsive UI  
 - Deployed apps to Play Store and App Store  
 - Integrated REST APIs, secure authentication, and third-party SDKs  
 
