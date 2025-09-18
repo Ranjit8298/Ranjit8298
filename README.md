@@ -62,7 +62,7 @@ I love crafting **clean, scalable, and user-friendly** mobile solutions with a f
 
 ## 📱 Projects
 
-### 🛒 Nutmeg Buyer *(Sept 2024 – Present)*
+### 🛒 Nutmeg Buyer *(Sept 2024 – Aug 2025)*
 A B2B grocery app enabling retailers and businesses to purchase groceries in bulk directly from suppliers.  
 **Tech:** Flutter, Bloc, Firebase, One Signal, Third-party libraries  
 
